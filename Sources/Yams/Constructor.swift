@@ -8,6 +8,7 @@
 
 import Foundation
 
+
 /// Constructors are used to translate `Node`s to Swift values.
 public final class Constructor {
     /// Maps `Tag.Name`s to `Node.Scalar`s.
